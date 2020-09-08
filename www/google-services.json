@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729693767132",
+    "firebase_url": "https://fir-sample-app-695c4.firebaseio.com",
+    "project_id": "fir-sample-app-695c4",
+    "storage_bucket": "fir-sample-app-695c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729693767132:android:387c8c9b3fd67936fe3b19",
+        "android_client_info": {
+          "package_name": "jec.ac.jp.testApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729693767132-sgh9bcvr5njrbblohumm1klk6tq5d4ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm37jyFRnug-JHHT8GL_VSzp-p6nrfZt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729693767132-sgh9bcvr5njrbblohumm1klk6tq5d4ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
